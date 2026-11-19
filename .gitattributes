@@ -1,0 +1,6 @@
+# Ce qui ne part pas chez ceux qui installent le paquet (composer install).
+/.github            export-ignore
+/tests              export-ignore
+/.gitattributes     export-ignore
+/.gitignore         export-ignore
+/phpunit.xml        export-ignore
